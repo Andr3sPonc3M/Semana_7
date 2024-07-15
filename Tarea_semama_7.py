@@ -23,7 +23,7 @@ class Coche:
 
     # Constructor de la clase Coche
     def __init__(self, marca, modelo):
-        
+
         # Inicializa los atributos del objeto
         self.marca = marca
         self.modelo = modelo
